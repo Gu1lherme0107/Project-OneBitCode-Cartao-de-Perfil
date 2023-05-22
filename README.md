@@ -7,4 +7,5 @@ O projeto apresenta as seguintes funcionalidades:
 Exibe um cartão personalizado com seu nome,foto, email e informações de contato.
 Inclui links para o seu perfil no GitHub e LinkedIn.
 Permite que os usuários entrem em contato com você diretamente através do email fornecido.
-![ola]Imagem-do-projeto.png
+
+!(Imagem-do-projeto.png)
