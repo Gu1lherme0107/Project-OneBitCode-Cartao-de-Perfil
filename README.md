@@ -8,4 +8,4 @@ Exibe um cartão personalizado com seu nome,foto, email e informações de conta
 Inclui links para o seu perfil no GitHub e LinkedIn.
 Permite que os usuários entrem em contato com você diretamente através do email fornecido.
 
-!(Imagem-do-projeto.png)
+![Imagem do projeto](Imagem-do-projeto.png)
